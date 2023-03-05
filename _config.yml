@@ -20,7 +20,7 @@ locale: id-ID
 title: "RM. APAYAA Kuliner Guci Tegal"
 description: "Makan kenyang, kantong aman!"
 baseurl: # the subpath of your site, e.g. "/blog"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: "https://rm-apayaa.github.io"
 logo: #"/images/logo-rm-apayaa.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
