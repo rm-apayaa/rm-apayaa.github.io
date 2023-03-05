@@ -22,7 +22,7 @@ description: "Makan kenyang, kantong aman !"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: "https://rm-apayaa.github.io"
 logo: #"/images/logo-rm-apayaa.png"
-date_format: "%B %-d, %Y"
+date_format: #"%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
 mathjax:
@@ -87,7 +87,7 @@ defaults:
       type: posts
     values:
       layout: post
-      share: true
+      share: false
 
 # Site Author
 author:
@@ -96,6 +96,10 @@ author:
   email: rm.apayaa@gmail.com
   twitter:
   links:
+    - title: WhatsApp
+      url: https://wa.me/6282288898556
+      icon: fab fa-whatsapp
+
     - title: Instagram
       url: https://instagram.com/rm.apayaa
       icon: fab fa-instagram
@@ -106,6 +110,10 @@ author:
 
 # Footer Links
 footer_links:
+    - title: WhatsApp
+      url: https://wa.me/6282288898556
+      icon: fab fa-whatsapp
+
     - title: Instagram
       url: https://instagram.com/rm.apayaa
       icon: fab fa-instagram
