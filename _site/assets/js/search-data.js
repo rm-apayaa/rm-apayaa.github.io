@@ -10,7 +10,7 @@ var store = [{
         "url": "http://localhost:4000/menu-catering-and-prasmanan/"
       },{
         "title": "Menu Utama",
-        "excerpt":"      ","categories": [],
+        "excerpt":"       ","categories": [],
         "tags": [],
         "url": "http://localhost:4000/menu-utama/"
       }]
