@@ -108,6 +108,10 @@ author:
       url: https://www.facebook.com/rumahmakan.apayaa/
       icon: fab fa-facebook
 
+    - title: Maps
+      url: https://goo.gl/maps/ESnVww21GUyzFptv8
+      icon: fa fa-location-arrow
+
 # Footer Links
 footer_links:
     - title: WhatsApp
@@ -121,3 +125,7 @@ footer_links:
     - title: Facebook
       url: https://www.facebook.com/rumahmakan.apayaa/
       icon: fab fa-facebook
+
+    - title: Maps
+      url: https://goo.gl/maps/ESnVww21GUyzFptv8
+      icon: fa fa-location-arrow
