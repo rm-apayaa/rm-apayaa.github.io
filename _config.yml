@@ -17,11 +17,11 @@
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
 skin: "/assets/css/skins/default.css"
 locale: id-ID
-title: "RM. APAYAA Kuliner Guci Tegal"
+title: "RM. APAYAA Tuwel Kuliner Guci Tegal"
 description: "Makan kenyang, kantong aman !"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: "https://rm-apayaa.github.io"
-logo: #"/images/logo-rm-apayaa.png"
+logo: "/images/rm-apayaa-logo-site.png"
 date_format: #"%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
