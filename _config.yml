@@ -19,7 +19,7 @@ skin: "/assets/css/skins/default.css"
 locale: id-ID
 title: "RM. APAYAA Tuwel Kuliner Guci Tegal"
 description: "Makan kenyang, kantong aman !"
-baseurl: "/menu" # the subpath of your site, e.g. "/blog"
+baseurl: # the subpath of your site, e.g. "/blog"
 url: "https://rm-apayaa.github.io"
 logo: "/images/rm-apayaa-logo-site.png"
 date_format: #"%B %-d, %Y"
